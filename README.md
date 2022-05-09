@@ -1,2 +1,2 @@
 # reactnative-sample-app-hello-world
-A simple "Hello, World" style Flutter app.
+A simple "Hello, World" style React Native app.
