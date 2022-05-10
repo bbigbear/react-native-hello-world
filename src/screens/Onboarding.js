@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image,  StyleSheet, Text, View } from 'react-native';
-import logo from '/Users/moataz.eldebsy/react-native-example/assets/logo.png'; 
+import logo from '../../assets/logo.png'; 
 
 export default function App() {
   return (
