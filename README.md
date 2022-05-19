@@ -1,6 +1,6 @@
 # React Native Sample App - Hello World
 
-This is a simple React-Native (Javascript) app with a single view. The intention of this application is to demonstrate the usage of the mobile CI/CD functionality within [Bitrise](https://bitrise.io).
+This is a simple [React-Native](https://reactnative.dev/) (Javascript) app with a single view. The intention of this application is to demonstrate the usage of the mobile CI/CD functionality within [Bitrise](https://bitrise.io).
 
 <p align="center" spacing="10">
     <kbd>
